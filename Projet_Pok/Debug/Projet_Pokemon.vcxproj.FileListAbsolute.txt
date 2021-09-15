@@ -1,0 +1,2 @@
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Debug\Projet_Pokemon.exe
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Debug\Projet_Pokemon.pdb

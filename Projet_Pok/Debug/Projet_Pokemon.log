@@ -1,0 +1,10 @@
+﻿  Fonctions.cpp
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(888,29): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(950,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(989,22): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(1065,9): warning C4101: 'c' : variable locale non référencée
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(1464,14): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(1465,14): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(1478,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Fonctions.cpp(1094): warning C4715: 'getalveole' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet_Pokemon.vcxproj -> C:\Maxime Perso\Maxime\Cours\DEV\Algorithmie et structure de données\Projet_C++\Projet_Pokemon\Debug\Projet_Pokemon.exe
